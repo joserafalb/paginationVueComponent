@@ -2,7 +2,7 @@
 A Vue.js(v2.x+) component to make pagination
 ![alt text](https://raw.githubusercontent.com/joserafalb/paginationVueComponent/master/gif.gif)
 
-[Live demo](https://jsfiddle.net/joserafalb/py03hu9m/1/) on JSFiddle
+[Live demo](https://jsfiddle.net/joserafalb/py03hu9m/5/) on JSFiddle
 # Usage
 I use this on laravel but you should be good to use it anywhere. Take a look to the live demo if you are not using Laravel.
 1. Add to **resources/js/app.js**
